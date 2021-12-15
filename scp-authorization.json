@@ -1,18 +1,88 @@
 {
     "Groups":{
+        "7603843":{
+            "2":{
+                "Team":"Scientific Department",
+                "Rank":"Intern",
+                "LCZ":["SCP-1025","SCP-1762 [A]","SCP-871","SCP-268","SCP-999 [A]","SCP-131 [A]","SCP-498","SCP-066 [A]"],
+                "MCZ":[],
+                "HCZ":[]
+            },
+            "3":{
+                "Team":"Scientific Department",
+                "Rank":"Apprentice Researcher",
+                "LCZ":["SCP-1025","SCP-1762 [A]","SCP-871","SCP-1162","SCP-268","SCP-999 [A]","SCP-131 [A]","SCP-498","SCP-066 [A]"],
+                "MCZ":["SCP-049","SCP-1139"],
+                "HCZ":[]
+            },
+            "3":{
+                "Team":"Scientific Department",
+                "Rank":"Junior Researcher",
+                "LCZ":["SCP-1025","SCP-1762 [A]","SCP-871","SCP-1162","SCP-268","SCP-999 [A]","SCP-131 [A]","SCP-498","SCP-066 [A]"],
+                "MCZ":["SCP-009","SCP-049","SCP-1139","SCP-082 [A]"],
+                "HCZ":[]
+            },
+            "5":{
+                "Team":"Scientific Department",
+                "Rank":"Researcher",
+                "LCZ":["SCP-1025","SCP-1762 [A]","SCP-871","SCP-1162","SCP-268","SCP-999 [A]","SCP-131 [A]","SCP-498","SCP-066 [A]"],
+                "MCZ":["SCP-009","SCP-173 [A]","SCP-049","SCP-1139","SCP-457 [A]","SCP-082 [A]"],
+                "HCZ":["SCP-085 [A]","SCP-085 [A] [CR]"]
+            },
+            "7":{
+                "Team":"Scientific Department",
+                "Rank":"Senior Researcher",
+                "LCZ":["SCP-1025","SCP-1762 [A]","SCP-871","SCP-1162","SCP-268","SCP-999 [A]","SCP-131 [A]","SCP-498","SCP-066 [A]"],
+                "MCZ":["SCP-009","SCP-173 [A]","SCP-049","SCP-1139","SCP-457 [A]","SCP-082 [A]"],
+                "HCZ":["SCP-085 [A]","SCP-085 [A] [CR]"]
+            },
+            "251":{
+                "Team":"Scientific Department",
+                "Rank":"Advanced Researcher",
+                "LCZ":["SCP-1025","SCP-1762 [A]","SCP-871","SCP-1162","SCP-268","SCP-999 [A]","SCP-131 [A]","SCP-498","SCP-066 [A]"],
+                "MCZ":["SCP-009","SCP-173 [A]","SCP-049","SCP-1139","SCP-457 [A]","SCP-082 [A]"],
+                "HCZ":["SCP-085 [A]","SCP-085 [A] [CR]"]
+            },
+            "252":{
+                "Team":"Scientific Department",
+                "Rank":"Chief Researcher",
+                "LCZ":["SCP-1025","SCP-1762 [A]","SCP-871","SCP-1162","SCP-268","SCP-999 [A]","SCP-131 [A]","SCP-498","SCP-066 [A]"],
+                "MCZ":["SCP-009","SCP-173 [A]","SCP-049","SCP-1139","SCP-457 [A]","SCP-082 [A]"],
+                "HCZ":["SCP-085 [A]","SCP-085 [A]"]
+            }
+        }
         "5264321":{
+            "110":{
+                "Rank":"Field Director",
+                "LCZ":["SCP-1025","SCP-1762 [A]","SCP-871","SCP-1162","SCP-268","SCP-999 [A]","SCP-131 [A]","SCP-498","SCP-066 [A]"],
+                "MCZ":["SCP-009","SCP-173 [A]","SCP-049","SCP-1139","SCP-457 [A]","SCP-082 [A]"],
+                "HCZ":["SCP-085 [A]","SCP-085 [A]"]
+            },
+            "150":{
+                "Rank":"Overseer",
+                "LCZ":["SCP-1025","SCP-1762 [A]","SCP-871","SCP-1162","SCP-268","SCP-999 [A]","SCP-131 [A]","SCP-498","SCP-066 [A]"],
+                "MCZ":["SCP-009","SCP-173 [A]","SCP-049","SCP-1139","SCP-457 [A]","SCP-082 [A]"],
+                "HCZ":["SCP-085 [A]","SCP-085 [A]"]
+            },
+            "250":{
+                "Rank":"Overseer Foreman",
+                "LCZ":["SCP-1025","SCP-1762 [A]","SCP-871","SCP-1162","SCP-268","SCP-999 [A]","SCP-131 [A]","SCP-498","SCP-066 [A]"],
+                "MCZ":["SCP-009","SCP-173 [A]","SCP-049","SCP-1139","SCP-457 [A]","SCP-082 [A]"],
+                "HCZ":["SCP-085 [A]","SCP-085 [A]"]
+            },
             "255":{
-                "LCZ":["SCP-001","SCP-002","SCP-003","SCP-004","SCP-006","SCP-006"],
-                "MCZ":["SCP-007","SCP-008","SCP-009","SCP-010","SCP-011","SCP-012"],
-                "HCZ":["SCP-013","SCP-014","SCP-015","SCP-016","SCP-017","SCP-018"]
+                "Rank":"The Administrator",
+                "LCZ":["SCP-1025","SCP-1762 [A]","SCP-871","SCP-1162","SCP-268","SCP-999 [A]","SCP-131 [A]","SCP-498","SCP-066 [A]"],
+                "MCZ":["SCP-009","SCP-173 [A]","SCP-049","SCP-1139","SCP-457 [A]","SCP-082 [A]"],
+                "HCZ":["SCP-085 [A]","SCP-085 [A]"]
             }
         }
     },
     "User":{
-        "5264321":{
-            "LCZ":["SCP-001","SCP-002"],
-            "MCZ":["SCP-003","SCP-004"],
-            "HCZ":["SCP-006","SCP-006"]
+        "0":{
+            "LCZ":[],
+            "MCZ":[],
+            "HCZ":[]
         }
     }
 }
