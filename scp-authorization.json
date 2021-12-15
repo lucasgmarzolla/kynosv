@@ -15,13 +15,6 @@
                 "MCZ":["SCP-049","SCP-1139"],
                 "HCZ":[]
             },
-            "3":{
-                "Team":"Scientific Department",
-                "Rank":"Junior Researcher",
-                "LCZ":["SCP-1025","SCP-1762 [A]","SCP-871","SCP-1162","SCP-268","SCP-999 [A]","SCP-131 [A]","SCP-498","SCP-066 [A]"],
-                "MCZ":["SCP-009","SCP-049","SCP-1139","SCP-082 [A]"],
-                "HCZ":[]
-            },
             "5":{
                 "Team":"Scientific Department",
                 "Rank":"Researcher",
@@ -50,7 +43,7 @@
                 "MCZ":["SCP-009","SCP-173 [A]","SCP-049","SCP-1139","SCP-457 [A]","SCP-082 [A]"],
                 "HCZ":["SCP-085 [A]","SCP-085 [A]"]
             }
-        }
+        },
         "5264321":{
             "110":{
                 "Rank":"Field Director",
